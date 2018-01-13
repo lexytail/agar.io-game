@@ -1,0 +1,40 @@
+{
+  "name": "STBK-Agar.io",
+  "version": "1.0.0",
+  "description": "Инициализация",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexytail/agar.io-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexytail/agar.io-game/issues"
+  },
+  "homepage": "https://github.com/lexytail/agar.io-game#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.9",
+    "node-sass": "^4.7.2",
+    "pug": "^2.0.0-rc.4",
+    "socket.io": "^2.0.4",
+    "ts-node": "^4.1.0",
+    "typescript": "^2.6.2",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.10.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.11.0",
+    "@types/mongoose": "^4.7.32",
+    "@types/node": "^9.3.0",
+    "@types/socket.io": "^1.4.31",
+    "@types/socket.io-client": "^1.4.32",
+    "@types/webpack": "^3.8.2",
+    "@types/webpack-dev-server": "^2.9.2"
+  }
+}
